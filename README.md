@@ -1,4 +1,4 @@
-![cover_pic](mushroom_identifier/data/0003_general/cover_pic.jpg)
+![cover_pic](capstone_project/data/0003_general/cover_pic.jpg)
 
 # Mushroom Identifier
 
@@ -40,7 +40,7 @@ Special thanks to:
 ##
 
 <p align="center">
-    <img src="mushroom_identifier/data/0003_general/disclaimer_pic.jpg" width="400" height="200" />
+    <img src="capstone_project/data/0003_general/disclaimer_pic.jpg" width="400" height="200" />
 </p>    
 
 ### Disclaimer
